@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nouman Sehgal</h1>
 <h3 align="center">Passionate about design, user experience, and creating apps that make a difference.</h3>
 
-<h2 align="start">🚀 About Me</h2>
+<h2>🚀 About Me</h2>
 
 🌍 Active contributor to Ionic, Angular, and TypeScript communities
 
@@ -10,7 +10,7 @@
 
 🧠 Currently mastering:  **HTML, CSS, Bootstrap, Tailwind, Ionic, and TypeScript,**
 
-<h2 align="start">⚡ Fun fact</h2>
+<h2>⚡ Fun fact</h2>
 
 -  **Proud Muslim who finds inspiration in both faith and tech. On the path to pursuing a BS in Artificial Intelligence—because the future is AI!**
 
