@@ -10,7 +10,9 @@
 ✉️ Reach me at:  **noumanrajsehgal@gmail.com**.
 
 <h3 align="left">⚡ Fun fact</h3>
--  **Proud Muslim who finds inspiration in both faith and tech. On the path to pursuing a BS in Artificial Intelligence—because the future is AI!**
+  Proud Muslim who finds inspiration in both faith and tech.
+
+  On the path to pursuing a BS in Artificial Intelligence—because the future is AI!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
