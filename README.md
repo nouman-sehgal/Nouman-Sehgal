@@ -5,8 +5,8 @@
 
 ### 🚀 About Me
 - 🌍 Active contributor to **Ionic**, **Angular**, and **Tailwind** communities.
-- 🧠 Currently mastering: **Backend JavaScript.**.
 - ✅ Completed: **HTML, CSS, Bootstrap, Tailwind, Ionic, and TypeScript.**.
+- 🧠 Currently mastering: **Backend JavaScript.**.
 - ✉️ Reach me at: **noumanrajsehgal@gmail.com**.
 - 🎓 Pursuing a BS in **Artificial Intelligence**—because the future is AI!
 - 🕌 Proud Muslim who finds inspiration in both faith and tech.
