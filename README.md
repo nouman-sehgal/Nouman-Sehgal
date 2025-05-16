@@ -4,6 +4,7 @@
 ---
 
 ### 🚀 About Me
+- 💼 CEO & Founder of InfraCordeX and Future Door.
 - 🌍 Active contributor to **Ionic**, **Angular**, and **Tailwind** communities.
 - ✅ Completed: **HTML, CSS, Bootstrap, Tailwind, Ionic, and TypeScript.**.
 - 🧠 Currently mastering: **Backend JavaScript.**.
