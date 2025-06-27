@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nouman Sehgal</h1>
-<h3 align="center">A passionate designer and developer crafting meaningful apps with a focus on user experience.</h3>
+<h3 align="center">CEO & Founder | Leading with design, engineering with precision — building apps that matter.</h3>
+
 
 ---
 
