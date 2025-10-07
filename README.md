@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nouman Sehgal</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Nouman</h1>
 <h3 align="center">CEO & Founder | Leading with design, engineering with precision — building apps that matter.</h3>
 
 
@@ -9,7 +9,7 @@
 - 🌍 Active contributor to **Ionic**, **Angular**, and **Tailwind** communities.
 - ✅ Completed: **HTML, CSS, Bootstrap, Tailwind, Ionic, and TypeScript.**.
 - 🧠 Currently mastering: **Backend JavaScript.**.
-- ✉️ Reach me at: **noumanrajsehgal@gmail.com**.
+- ✉️ Reach me at: **noumanrajsehgal@gmail.com | ceo@yourfuturedoor.com**.
 - 🎓 Pursuing a BS in **Artificial Intelligence**—because the future is AI!
 - 🕌 Proud Muslim who finds inspiration in both faith and tech.
 
