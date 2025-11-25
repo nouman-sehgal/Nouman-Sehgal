@@ -9,20 +9,7 @@
     <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-0078D4?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
 
-  <br /><br />
-
-  <a href="mailto:noumanrajsehgal@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/mail.png" alt="Email" width="45" height="45" style="margin-right: 15px"/>
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-nouman-sehgal/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="45" height="45" style="margin-right: 15px"/>
-  </a>
-  <a href="https://fb.com/noumanrajsehgal" target="_blank">
-    <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" width="45" height="45" style="margin-right: 15px"/>
-  </a>
-  <a href="https://instagram.com/noumanrajsehgal" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="45" height="45"/>
-  </a>
+  <br />
 </div>
 
 <br />
@@ -74,6 +61,22 @@
 </p>
 
 ---
+### 🌎 Socials
+
+  <a href="mailto:noumanrajsehgal@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/mail.png" alt="Email" width="45" height="45" style="margin-right: 15px"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-nouman-sehgal/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="45" height="45" style="margin-right: 15px"/>
+  </a>
+  <a href="https://fb.com/noumanrajsehgal" target="_blank">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" width="45" height="45" style="margin-right: 15px"/>
+  </a>
+  <a href="https://instagram.com/noumanrajsehgal" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="45" height="45"/>
+  </a>
+
+  ---
 
 ### 📊 GitHub Activity
 <p align="center">
