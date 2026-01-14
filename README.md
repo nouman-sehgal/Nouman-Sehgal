@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi 👋, I'm Muhammad Nouman</h1>
+  <h1>Hi 👋, I'm Muhammad Nouman Sehgal</h1>
   <h3>Full Stack Developer | CEO & Founder</h3>
   <p><i>Leading with design, engineering with precision — building apps that matter.</i></p>
 
