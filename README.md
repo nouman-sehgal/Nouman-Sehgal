@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Muhammad Nouman Sehgal</h1>
-  <h3>Full Stack Developer | CEO & Founder</h3>
+  <h3>Ionic Angular Expert | CEO & Founder of InfraCodeX</h3>
   <p><i>Leading with design, engineering with precision — building apps that matter.</i></p>
 
   <br />
@@ -17,10 +17,12 @@
 ---
 
 ### 🚀 About Me
-- 💼 **CEO & Founder** of **InfraCordeX** and **[Future Door](https://yourfuturedoor.com)**.
-- 💻 **Web & Mobile:** Expert in building cross-platform apps with **Ionic** and **Angular**.
-- ⚙️ **Backend Engineering:** Developing robust APIs and server-side logic using **PHP** and **Node.js**.
-- 🎓 **Education:** Pursuing BS in **Artificial Intelligence**.
+- 💼 **CEO & Founder** of **InfraCodeX** (Managing professional software solutions).
+- 📱 **Recent Projects:** Creator of **[Pixlura](https://play.google.com/store/apps/details?id=io.pixlura.visuals)** (Wallpaper App) and **PrivaCut AI** (Background Removal).
+- 🏛️ **Founder** of **[Future Door](https://yourfuturedoor.com)** (Educational Platform).
+- 💻 **Web & Mobile:** Specializing in **Angular 21** and **Ionic Framework** with modern Signal-based patterns.
+- ⚙️ **Full Stack:** Crafting custom APIs with **PHP** and robust logic with **Node.js**.
+- 🎓 **Education:** Pursuing BS in **Artificial Intelligence** (Expected 2026).
 - ✉️ **Contact:** [noumanrajsehgal@gmail.com](mailto:noumanrajsehgal@gmail.com)
 
 ---
@@ -29,10 +31,10 @@
 
 <p align="left">
   <a href="https://angular.io" target="_blank">
-    <img src="https://skillicons.dev/icons?i=angular" width="50" height="50" alt="Angular Developer"/>
+    <img src="https://skillicons.dev/icons?i=angular" width="50" height="50" alt="Angular 21 Developer"/>
   </a>
   <a href="https://ionicframework.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" width="50" height="50" alt="Ionic Framework"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" width="50" height="50" alt="Ionic Framework Expert"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=ts" width="50" height="50" alt="TypeScript"/>
@@ -40,17 +42,11 @@
   <a href="https://www.php.net/" target="_blank">
     <img src="https://skillicons.dev/icons?i=php" width="50" height="50" alt="PHP Backend"/>
   </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind CSS"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="Bootstrap"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=sass" width="50" height="50" alt="Sass SCSS"/>
-  </a>
   <a href="https://nodejs.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="NodeJS"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind CSS"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git Version Control"/>
@@ -58,11 +54,16 @@
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" alt="Figma Design"/>
   </a>
+  <a href="https://capacitorjs.com/" target="_blank">
+     <img src="https://skillicons.dev/icons?i=capacitor" width="50" height="50" alt="Capacitor Runtime"/>
+  </a>
 </p>
 
 ---
+
 ### 🌎 Socials
 
+<div align="left">
   <a href="mailto:noumanrajsehgal@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/mail.png" alt="Email Nouman" width="45" height="45" style="margin-right: 15px"/>
   </a>
@@ -75,8 +76,8 @@
   <a href="https://instagram.com/noumanrajsehgal" target="_blank">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram Profile" width="45" height="45"/>
   </a>
+</div>
 
-  ---
 
 
 ### 🎨 Contribution Graph
