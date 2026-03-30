@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Muhammad Nouman Sehgal</h1>
-  <h3>Ionic Angular Expert | CEO & Founder of InfraCodeX</h3>
+  <h3>Ionic Angular Expert | CEO & Founder of InfraCordeX</h3>
   <p><i>Leading with design, engineering with precision — building apps that matter.</i></p>
 
   <br />
@@ -17,7 +17,7 @@
 ---
 
 ### 🚀 About Me
-- 💼 **CEO & Founder** of **InfraCodeX** (Managing professional software solutions).
+- 💼 **CEO & Founder** of **InfraCordeX** (Managing professional software solutions).
 - 📱 **Recent Projects:** Creator of **[Pixlura](https://play.google.com/store/apps/details?id=io.pixlura.visuals)** (Wallpaper App) and **PrivaCut AI** (Background Removal).
 - 🏛️ **Founder** of **[Future Door](https://yourfuturedoor.com)** (Educational Platform).
 - 💻 **Web & Mobile:** Specializing in **Angular 21** and **Ionic Framework** with modern Signal-based patterns.
