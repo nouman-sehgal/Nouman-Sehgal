@@ -1,12 +1,15 @@
 <div align="center">
   <h1>Hi 👋, I'm Muhammad Nouman Sehgal</h1>
-  <h3>Angular 21 Migration Architect | Headless E-Commerce Specialist</h3>
-  <p><i>Eliminating enterprise technical debt with precision-engineered web systems & cross-platform hybrid applications.</i></p>
+  <h3>Founder @InfraCordeX | Full Stack Developer & DevOps Engineer</h3>
+  <p><i>Engineering scalable web ecosystems, high-performance cross-platform apps, and robust headless e-commerce architectures.</i></p>
 
   <br />
 
+  <a href="https://infracordex.com/">
+    <img src="https://img.shields.io/badge/🏢%20Visit%20InfraCordeX-111827?style=for-the-badge&logoColor=white" alt="InfraCordeX Software House" />
+  </a>
   <a href="https://noumansehgal.com/">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-0078D4?style=for-the-badge&logoColor=white" alt="Portfolio of Muhammad Nouman" />
+    <img src="https://img.shields.io/badge/🌐%20Personal%20Portfolio-0078D4?style=for-the-badge&logoColor=white" alt="Portfolio of Muhammad Nouman" />
   </a>
   <a href="https://www.upwork.com/freelancers/~01df1c7c07ea3e3e3c?mp_source=share">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork Profile" />
@@ -20,18 +23,19 @@
 ---
 
 ### 🚀 Strategic Focus
-- 💼 **Founder & Lead Architect** at **[InfraCordeX](https://noumansehgal.com)** — Engineering elite full-stack business solutions and scalable cross-platform modernizations.
-- 📱 **Mobile Ecosystem Architecture:** Migrating complex mobile sandboxes to 100% Zoneless **Angular 21**, **Ionic 8**, and **Capacitor 8** native runtime configurations.
-- 🛒 **Headless Commerce Pipelines:** Restructuring performance-optimized digital storefronts using **Medusa.js v2** and standalone Angular Server-Side Rendering (SSR).
-- ⚙️ **High-Velocity Backend Systems:** Orchestrating backend microservices using **Node.js** and the high-throughput **Leaf PHP** framework inside isolated Docker environments.
-- 🎓 **Academic Tracking:** Pursuing a Bachelor of Science (BS) in **Artificial Intelligence** at the University of Management and Technology (UMT), focusing heavily on edge machine learning and on-device biometric pipelines.
+- 💼 **Founder & CEO** at **[InfraCordeX](https://infracordex.com)** — Delivering scalable, enterprise-grade software solutions from backend infrastructure to frontend delivery.
+- ⚙️ **DevOps & Cloud Infrastructure:** Architecting and managing self-hosted VPS environments, containerized deployments with **Docker**, and automated CI/CD pipelines (Coolify, MinIO).
+- 📱 **Full Stack Mobile & Web:** Building robust, cross-platform applications and web platforms using **Angular 21**, **Ionic 8**, **Node.js**, and **Leaf PHP**.
+- 🛒 **Headless Commerce Pipelines:** Developing performance-optimized, secure digital storefronts and customized backend architectures using **Medusa.js v2**.
+- 🎓 **Academic Tracking:** Pursuing a Bachelor of Science (BS) in **Artificial Intelligence** at the University of Management and Technology (UMT), focusing on edge machine learning and on-device processing.
 
 ---
 
 ### 📦 Live Production Case Studies
-- 🎯 **[Zilara Headless Storefront](https://noumansehgal.com)** — Open-source zero transaction fee storefront running on Medusa.js v2 and Angular 21 SSR.
-- 📚 **[Future Door App](https://play.google.com/store/apps/details?id=com.futuredoor.app)** — High-performance cross-platform EdTech tracking engine serving thousands of active user sessions with 99.9% runtime stability.
-- 🎨 **[Pixlura Gallery Engine](https://play.google.com/store/apps/details?id=io.pixlura.visuals)** — Lightweight digital asset streaming network with native Google AdMob SDK mobile bidding pipelines and secure programmatic monetization handles.
+- 🔐 **[PrivaCut AI](https://noumansehgal.com/projects/privacut-app)** — Offline, on-device AI background removal tool engineered for strict data privacy and high-speed processing.
+- 🎯 **Zilara Headless Storefront** — Open-source zero transaction fee storefront powered by scalable Medusa.js backend infrastructure and SSR.
+- 📚 **[Future Door App](https://play.google.com/store/apps/details?id=com.futuredoor.app)** — High-performance cross-platform EdTech engine serving thousands of active user sessions with 99.9% runtime stability.
+- 🎨 **[Pixlura Gallery Engine](https://play.google.com/store/apps/details?id=io.pixlura.visuals)** — Lightweight digital asset streaming network integrated with secure programmatic monetization handles.
 
 ---
 
