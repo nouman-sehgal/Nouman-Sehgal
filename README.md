@@ -25,7 +25,7 @@
 ### 🚀 Strategic Focus
 - 💼 **Founder & CEO** at **[InfraCordeX](https://infracordex.com)** — Delivering scalable, enterprise-grade software solutions from backend infrastructure to frontend delivery.
 - ⚙️ **DevOps & Cloud Infrastructure:** Architecting and managing self-hosted VPS environments, containerized deployments with **Docker**, and automated CI/CD pipelines (Coolify, MinIO).
-- 📱 **Full Stack Mobile & Web:** Building robust, cross-platform applications and web platforms using **Angular 21**, **Ionic 8**, **Node.js**, and **Leaf PHP**.
+- 📱 **Full Stack Mobile & Web:** Building robust, cross-platform applications and web platforms using **Angular**, **Ionic**, **Node.js**, and **Leaf PHP**.
 - 🛒 **Headless Commerce Pipelines:** Developing performance-optimized, secure digital storefronts and customized backend architectures using **Medusa.js v2**.
 - 🎓 **Academic Tracking:** Pursuing a Bachelor of Science (BS) in **Artificial Intelligence** at the University of Management and Technology (UMT), focusing on edge machine learning and on-device processing.
 
