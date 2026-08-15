@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi 👋, I'm Muhammad Nouman Sehgal</h1>
   <h3>Founder @InfraCordeX | Full Stack Developer & DevOps Engineer</h3>
-  <p><i>Engineering scalable web ecosystems, high-performance cross-platform apps, and robust headless e-commerce architectures.</i></p>
+  <p><i>Leveraging 2+ years of experience to engineer scalable web ecosystems, high-performance cross-platform apps, and robust headless e-commerce architectures.</i></p>
 
   <br />
 
@@ -12,7 +12,10 @@
     <img src="https://img.shields.io/badge/🌐%20Personal%20Portfolio-0078D4?style=for-the-badge&logoColor=white" alt="Portfolio of Muhammad Nouman" />
   </a>
   <a href="https://www.upwork.com/freelancers/~01df1c7c07ea3e3e3c?mp_source=share">
-    <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Profile" />
+    <img src="https://img.shields.io/badge/🤝%20Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire Me on Upwork" />
+  </a>
+  <a href="YOUR_BUY_ME_A_COFFEE_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/☕%20Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
   </a>
 
   <br />
@@ -42,9 +45,6 @@
 ### 🛠️ Technical Arsenal
 
 <p align="left">
-    <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python Development"/>
-  </a>
   <a href="https://angular.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=angular" width="50" height="50" alt="Angular 21 Architect"/>
   </a>
@@ -63,6 +63,9 @@
 
   <a href="https://nodejs.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="NodeJS Microservices"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python Development"/>
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" alt="FastAPI Backend"/>
