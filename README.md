@@ -154,7 +154,7 @@ Built around a lightweight backend and mobile-first experience for browsing, cac
 * **Commerce:** Medusa.js
 * **Databases:** PostgreSQL and relational database systems
 * **Mobile:** Ionic, Capacitor
-* **Frontend Architecture:** Angular, Signals, SSR
+* **Frontend Architecture:** Angular, Signals, SSR , Ionic
 * **Backend:** FastAPI, Node.js, PHP
 
 ---
