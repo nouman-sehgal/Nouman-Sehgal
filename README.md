@@ -1,15 +1,15 @@
 <div align="center">
   <h1>Hi 👋, I'm Muhammad Nouman Sehgal</h1>
-  <h3>Founder @ InfraCordeX | Full Stack Developer & Backend / DevOps Engineer</h3>
-  <p><i>Building web applications, backend services, cross-platform products, and the infrastructure that runs them.</i></p>
+  <h3>Full-Stack Engineer | Python, FastAPI, TypeScript, React, Angular & Cloud Infrastructure</h3>
+  <p><i>Building production web applications, cross-platform mobile apps, secure backend services, and the infrastructure that runs them.</i></p>
 
   <br />
 
-  <a href="https://infracordex.com/">
-    <img src="https://img.shields.io/badge/🏢%20InfraCordeX-111827?style=for-the-badge&logoColor=white" alt="InfraCordeX" />
-  </a>
   <a href="https://noumansehgal.com/">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-0078D4?style=for-the-badge&logoColor=white" alt="Muhammad Nouman Sehgal Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-nouman-sehgal-dev/">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.upwork.com/freelancers/~01df1c7c07ea3e3e3c?mp_source=share">
     <img src="https://img.shields.io/badge/🤝%20Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire Muhammad Nouman Sehgal on Upwork" />
@@ -22,13 +22,12 @@
 
 ## 🚀 What I Do
 
-* 💼 **Founder & CEO @ InfraCordeX** — Building and delivering custom software products, web platforms, APIs, and infrastructure.
-* 🌐 **Full Stack Engineering** — Developing modern web and cross-platform applications with Angular, Ionic, TypeScript, and Node.js.
-* 🐍 **Python Backend Engineering** — Expanding my backend engineering work with Python and FastAPI, focusing on typed, documented, tested, and production-oriented APIs.
-* 🤖 **AI & On-Device Processing** — Building privacy-focused applications that use AI and computer vision directly on the device where practical.
-* ⚙️ **Infrastructure & DevOps** — Managing Linux VPS environments, Docker deployments, CI/CD workflows, and self-hosted services.
-* 🛒 **Headless Commerce** — Building custom storefront architectures with Angular, SSR, and Medusa.js.
-* 🎓 **AI Engineering** — Pursuing a BS in Artificial Intelligence at the University of Management and Technology (UMT).
+- 🌐 **Full-Stack Engineering** — Developing production web and cross-platform mobile applications with **React**, **Angular (SSR, Signals)**, **TypeScript**, **Ionic**, and **Capacitor**.
+- 🐍 **Python Backend Engineering** — Architecting typed, tested **FastAPI** services with **RBAC**, **Redis** caching, rate limiting, **PostgreSQL** integrity constraints, and API security hardening.
+- 📱 **Native-Bridged Mobile Performance** — Moving heavy media playback and file I/O out of WebViews into native Android (**ExoPlayer / Media3**, streamed background downloaders).
+- 🤖 **Data Pipelines & On-Device AI** — Building evidence-backed crawling/OCR pipelines and privacy-focused on-device computer-vision applications.
+- ⚙️ **Infrastructure & DevOps** — Managing **Linux VPS** environments, **Docker** & **Coolify** deployments, **Cloudflare WAF/Tunnels**, **Nginx**, and self-hosted services (**MinIO**).
+- 🎓 **AI Engineering** — Pursuing a BS in Artificial Intelligence at the University of Management and Technology (UMT).
 
 ---
 
@@ -36,23 +35,54 @@
 
 ### 🐍 Python + FastAPI
 
-I'm currently deepening my backend engineering work with **Python and FastAPI**, focusing on:
+I'm deepening my backend and systems engineering work with **Python and FastAPI**, focusing on:
 
-* REST API architecture
-* Pydantic validation and typed schemas
-* Authentication and authorization
-* Database-backed services
-* Async programming
-* OpenAPI documentation
-* Automated testing
-* Dockerized deployments
-* Production API architecture
-
-FastAPI is becoming an important part of my backend stack alongside my existing **TypeScript / Node.js** experience.
+- REST API architecture with Pydantic validation and typed schemas
+- Centralized authentication, RBAC, and API security (BOLA & path traversal protection)
+- PostgreSQL relational modeling, concurrency controls, and idempotency
+- Redis caching and dual-layer sliding-window rate limiting
+- Async programming, OpenAPI documentation, and automated resilience testing
+- Dockerized Linux deployments via Coolify and Cloudflare
 
 ---
 
 ## 📦 Selected Production Work
+
+### 🎬 Screen Hall
+
+**Cross-platform movie streaming and offline playback application built with React, TypeScript, and Capacitor.**
+
+Engineered custom native Android bridges to bypass WebView bottlenecks: **ExoPlayer (Media3)** for hardware-accelerated decoding and adaptive buffering, plus a **native streamed/chunked background downloader** with pause/resume reliability and local watch-history state.
+
+---
+
+### 🏛️ University Admission Intelligence & Monitoring Platform
+
+**Local-first crawling, OCR, and monitoring pipeline built with Python, FastAPI, PostgreSQL, and React.**
+
+Designed an independent evidence layer separating crawl runs, raw payloads, OCR extractions, and canonical updates, paired with content-hash change detection, idempotent writes, an RBAC FastAPI control plane, and an automated resilience test suite.
+
+---
+
+### 📚 Future Door
+
+**Full-stack education platform, React admin control plane, and FastAPI backend.**
+
+Built a shared **Angular/Ionic** web and Android app with virtualized catalog rendering, a multi-module **React + Tailwind CSS** admin dashboard, and a **FastAPI + PostgreSQL + Redis** backend featuring dual-layer rate limiting and **Cloudflare** edge security.
+
+[View on Google Play](https://play.google.com/store/apps/details?id=com.futuredoor.app)
+
+---
+
+### 🎨 Pixlura
+
+**Mobile wallpaper and digital asset application.**
+
+Built with **Angular**, **Ionic**, and **Capacitor**, backed by **Python/FastAPI**, **PostgreSQL**, and **Redis** caching for browsing, caching, and delivering large image collections.
+
+[View on Google Play](https://play.google.com/store/apps/details?id=io.pixlura.visuals)
+
+---
 
 ### 🔐 PrivaCut AI
 
@@ -64,31 +94,13 @@ Built around on-device processing so sensitive images can be processed locally i
 
 ---
 
-### 🛒 Zilara
+### 🌐 NoumanSehgal.com
 
-**Headless e-commerce storefront architecture built around Medusa.js.**
+**Full-stack SSR engineering platform and React admin control plane.**
 
-A reusable commerce platform with an Angular frontend, SSR, structured application architecture, and a self-hosted backend.
+Combines an **Angular SSR** public frontend (JSON-LD schema, canonical routing, automated sitemaps, SEO/GEO) with a **React** admin dashboard and authenticated **FastAPI/PostgreSQL** backend deployed on **Docker**, **Coolify**, and **Cloudflare**.
 
----
-
-### 📚 Future Door
-
-**Cross-platform educational application.**
-
-Built with Ionic, Angular, and Capacitor with a focus on maintainability, performance, and native mobile capabilities.
-
-[View on Google Play](https://play.google.com/store/apps/details?id=com.futuredoor.app)
-
----
-
-### 🎨 Pixlura
-
-**Mobile wallpaper and digital asset application.**
-
-Built around a lightweight backend and mobile-first experience for browsing, caching, and delivering large image collections.
-
-[View on Google Play](https://play.google.com/store/apps/details?id=io.pixlura.visuals)
+[Visit Portfolio](https://noumansehgal.com)
 
 ---
 
@@ -97,6 +109,9 @@ Built around a lightweight backend and mobile-first experience for browsing, cac
 ### Frontend & Mobile
 
 <p align="left">
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" />
+  </a>
   <a href="https://angular.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=angular" width="50" height="50" alt="Angular" />
   </a>
@@ -137,11 +152,20 @@ Built around a lightweight backend and mobile-first experience for browsing, cac
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL" />
   </a>
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=redis" width="50" height="50" alt="Redis" />
+  </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker" />
   </a>
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Linux" />
+  </a>
+  <a href="https://www.cloudflare.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cloudflare" width="50" height="50" alt="Cloudflare" />
+  </a>
+  <a href="https://nginx.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nginx" width="50" height="50" alt="Nginx" />
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
@@ -150,12 +174,11 @@ Built around a lightweight backend and mobile-first experience for browsing, cac
 
 ### Platforms & Self-Hosted Infrastructure
 
-* **Infrastructure:** Linux VPS, Docker, Coolify, MinIO
-* **Commerce:** Medusa.js
-* **Databases:** PostgreSQL and relational database systems
-* **Mobile:** Ionic, Capacitor
-* **Frontend Architecture:** Angular, Signals, SSR , Ionic
-* **Backend:** FastAPI, Node.js, PHP
+- **Infrastructure:** Linux VPS, Docker, Coolify, Cloudflare, Nginx, MinIO
+- **Databases & Caching:** PostgreSQL, MySQL/MariaDB, Redis
+- **Mobile:** React + Capacitor (Native Android / ExoPlayer), Ionic
+- **Frontend Architecture:** React, Angular (SSR, Signals, Standalone Components), Tailwind CSS
+- **Backend:** Python/FastAPI, Node.js, PHP
 
 ---
 
@@ -172,10 +195,10 @@ I actively work with open-source infrastructure and developer ecosystems, includ
   </a>
 </p>
 
-* **Stalwart** — Self-hosted mail and collaboration infrastructure.
-* **Matrix** — Open, decentralized communication infrastructure and ecosystem.
-* **Docker / Linux** — Containerized and self-hosted service deployments.
-* **Open Source** — Exploring, deploying, integrating, and contributing to open-source infrastructure where it fits my projects.
+- **Stalwart** — Self-hosted mail and collaboration infrastructure.
+- **Matrix** — Open, decentralized communication infrastructure and ecosystem.
+- **Docker / Linux** — Containerized and self-hosted service deployments.
+- **Open Source** — Exploring, deploying, integrating, and contributing to open-source infrastructure where it fits my projects.
 
 ---
 
@@ -183,7 +206,7 @@ I actively work with open-source infrastructure and developer ecosystems, includ
 
 <p align="center">
   <a href="https://github.com/nouman-sehgal">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nouman-sehgal&hide_border=true" alt="Muhammad Nouman Sehgal GitHub Contribution Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nouman-sehgal&hide_border=true&hide_current_streak=true" alt="Muhammad Nouman Sehgal GitHub Contribution Streak" />
   </a>
 </p>
 
@@ -205,7 +228,7 @@ I actively work with open-source infrastructure and developer ecosystems, includ
   <a href="mailto:noumansehgal.dev@gmail.com">
     <img src="https://img.icons8.com/fluency/48/mail.png" alt="Email" width="45" height="45" />
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-nouman-sehgal">
+  <a href="https://www.linkedin.com/in/muhammad-nouman-sehgal-dev/">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="45" height="45" />
   </a>
   <a href="https://www.upwork.com/freelancers/~01df1c7c07ea3e3e3c?mp_source=share">
